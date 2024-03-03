@@ -1,5 +1,5 @@
 build:
-	docker build -t jcreed/mlton .
+	docker build -t jcreed/mlton-twelf-ci .
 
 push:
-	docker push "jcreed/mlton:latest"
+	docker push "jcreed/mlton-twelf-ci:latest"
