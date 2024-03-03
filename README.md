@@ -1,3 +1,1 @@
-This is a dockerfile meant to be suitable for CI tests for the Twelf
-logical framework (http://twelf.org) Mainly this means making sure
-the SML compiler mlton is installed.
+This is a dockerfile meant to be suitable for CI tests for the Twelf logical framework (see http://twelf.org and https://github.com/standardml/twelf) Mainly this means making sure the SML compiler mlton is installed. See the `Dockerfile` itself for details.
